@@ -1,0 +1,40 @@
+a {
+	float: right;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div, form {
+	text-align: center;
+}
+
+.advanced_search {
+	text-align:left;
+}
+
+label {
+	display: inline-block;
+	width: 250px;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type=text] {
+	display:inline-block;
+	height:44px;
+	width:auto;
+	max-width:584px;
+	min-width:400px;
+	border:1px solid #dfe1e5;
+	border-radius:24px;
+	margin:0 auto;
+	outline: none;
+}
+
+input[type=submit] {
+	height:30px;
+	min-width:120px;
+	background-color:#4d90fe;
+	border:1px solid #4d90fe;
+	color:#fff;
+}
+
